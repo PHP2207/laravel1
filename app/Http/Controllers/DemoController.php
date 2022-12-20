@@ -8,6 +8,9 @@ class DemoController extends Controller
 {
      public function index()
     {
-        echo "Ha tran";
+
+    
+        echo "hihi";
+
     }
 }
